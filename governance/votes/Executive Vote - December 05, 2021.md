@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] TEST - December 5, 2021
 summary: Vote for TEST
 date: 2021-12-04T00:00:00.000Z
-address: "0x9eB9D0C0ddFa19Fed3b407569955dF972Da6d85E"
+address: "0xd5838c3145f5791811ab7c6007E648496be8dFCB"
 ---
 ## [Executive Vote] Collateral Onboarding - December 5, 2021
 
