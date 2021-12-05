@@ -2,9 +2,9 @@
 title: Template - [Executive Vote] Collateral Onboarding - December 15, 2021
 summary: Vote for this proposal to onboard WAG
 date: 2021-11-15T00:00:00.000Z
-address: "0x58401b64CA6b91E346c87B057254F040990c4F98"
+address: "0x4E626f2F9C3B79D2c50b16877Be27D66d4Aca60d"
 ---
-## [Executive Vote] Collateral Onboarding - November 15, 2021
+## [Executive Vote] Collateral Onboarding - December 5, 2021
 
 The Governance Facilitator(s) and the VeleroDAO have placed an Executive Vote into the voting system. VDGT Holders should vote for this proposal if they support the following alterations to the VeeroFinance.
 
@@ -13,12 +13,12 @@ The Governance Facilitator(s) and the VeleroDAO have placed an Executive Vote in
 A new collateral type, WAG, will be added to the Velero if this proposal passes. WAG will be added with the following parameters in the WAG-A vault type.
 
 * Stability Fee: 6%
-* Liquidation Ratio: 175%
-* Debt Ceiling: 2 million USDV
+* Liquidation Ratio: 160%
+* Debt Ceiling: 3 million USDV
 * Auction Lot Size: 50,000 USDV
 * Minimum Bid Increment: 3%
-* Bid Duration: 6 hours
-* Max Auction Duration: 6 hours
+* Bid Duration: 140 minutes
+* Max Auction Duration: 140 minutes
 * Liquidation Penalty: 13%
 * Dust: 500 USDV
 
