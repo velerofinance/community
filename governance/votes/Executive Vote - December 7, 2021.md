@@ -1,10 +1,10 @@
 ---
-title: Template - [Executive Vote] Collateral Onboarding - December 6, 2021
+title: Template - [Executive Vote] Collateral Onboarding - December 7, 2021
 summary: Vote for this proposal to onboard WAG
-date: 2021-12-6T00:00:00.000Z
+date: 2021-12-7T00:00:00.000Z
 address: "0x0c793F4C493F94AE9d0aCD39386018ac149247B9"
 ---
-## [Executive Vote] Collateral Onboarding - December 6, 2021
+## [Executive Vote] Collateral Onboarding - December 7, 2021
 
 The Governance Facilitator(s) and the VeleroDAO have placed an Executive Vote into the voting system. VDGT Holders should vote for this proposal if they support the following alterations to the VeeroFinance.
 
