@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Collateral Onboarding - December 7, 2021
 summary: Vote for this proposal to onboard WAG
 date: 2021-12-7T00:00:00.000Z
-address: "0x0c793F4C493F94AE9d0aCD39386018ac149247B9"
+address: "0x25AB6857f28Ed79195EB16Dd5B5b6348d1e52a3D"
 ---
 ## [Executive Vote] Collateral Onboarding - December 7, 2021
 
