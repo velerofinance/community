@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Migrate Gov token - February  18, 2022
 summary: Migrate Gov token
 date: 2022-02-18T00:00:00.000Z
-address: "0x802683605f23FE164EB44Bf03868aFcc0d550B70"
+address: "0xd5D2cf5c1f563B6b685F87E039487E8532D725E3"
 ---
 ## [Executive Vote] Collateral Onboarding - February 18, 2022
 
