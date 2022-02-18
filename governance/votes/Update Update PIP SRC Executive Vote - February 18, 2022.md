@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Update PIP src - February  18, 2022
 summary: Update PIP src
 date: 2022-02-18T00:00:00.000Z
-address: "0xF00CB3667D68844710515C26A79D12f86459705A"
+address: "0xc71346c54f372A3a657f6EE851328De08C456bF3"
 ---
 ## [Executive Vote] Update PIP src - February 18, 2022
 
