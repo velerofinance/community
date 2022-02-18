@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Update DSR - February  18, 2022
 summary: Update DSR
 date: 2022-02-18T00:00:00.000Z
-address: "0x1aF885405ca1DbC00b57Ebf1407Be211628811e5"
+address: "0xDbC8bd8d5A8667674DD4006cB834524C4aFe1B17"
 ---
 ## [Executive Vote] Update DSR - February 18, 2022
 
