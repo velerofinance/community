@@ -4,7 +4,7 @@ summary: Update ilk params
 date: 2021-12-08T00:00:00.000Z
 address: "0xF48360349a195Ae55bDCC71Ae58320B757D1492D"
 ---
-## [Executive Vote] Collateral Onboarding - December 8, 2021
+## [Executive Vote] Update ilk params - December 8, 2021
 
 The Governance Facilitator(s) and the VeleroDAO have placed an Executive Vote into the voting system. VDGT Holders should vote for this proposal if they support the following alterations to the VeeroFinance.
 
