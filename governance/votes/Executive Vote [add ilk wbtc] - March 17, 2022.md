@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Collateral WBTC Onboarding - March 17, 2022
 summary: Vote for this proposal to onboard WBTC
 date: 2022-03-17T00:00:00.000Z
-address: "0x16Aa4f89f52F328b1C8394aec16CA1D9e8859b3B"
+address: "0x2B31aB2b89D739864ce891A78b70d49845729d6c"
 ---
 ## [Executive Vote] Collateral WBTC Onboarding - March 17, 2022
 
