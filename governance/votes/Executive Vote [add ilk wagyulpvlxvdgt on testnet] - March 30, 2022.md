@@ -1,10 +1,10 @@
 ---
-title: Template - [Executive Vote] Collateral wagyulpvlxvdgt Onboarding on testnet - March 30, 2022
+title: Template - [Executive Vote] Collateral wagyulpvlxvdgt Onboarding on testnet - March 31, 2022
 summary: Vote for this proposal to onboard wagyulpvlxvdgt on testnet
-date: 2022-03-30T00:00:00.000Z
+date: 2022-03-31T00:00:00.000Z
 address: "0x3Efdb7f268d8Ceb6A273D3FDE9674ac412970Ad1"
 ---
-## [Executive Vote] Collateral wagyulpvlxvdgt Onboarding pn testnet - March 30, 2022
+## [Executive Vote] Collateral wagyulpvlxvdgt Onboarding pn testnet - March 31, 2022
 
 The Governance Facilitator(s) and the VeleroDAO have placed an Executive Vote into the voting system. VDGT Holders should vote for this proposal if they support the following alterations to the VeeroFinance.
 
