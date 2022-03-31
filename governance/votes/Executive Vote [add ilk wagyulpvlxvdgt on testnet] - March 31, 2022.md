@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Collateral wagyulpvlxvdgt Onboarding on testnet - March 31, 2022
 summary: Vote for this proposal to onboard wagyulpvlxvdgt on testnet
 date: 2022-03-31T00:00:00.000Z
-address: "0x59d78ee6e8d55c4074b2457B544195F3f0A0f5B3"
+address: "0x0B6BEE542EAD517b28FB7EE4585819c987EB15Db"
 ---
 ## [Executive Vote] Collateral wagyulpvlxvdgt Onboarding pn testnet - March 31, 2022
 
