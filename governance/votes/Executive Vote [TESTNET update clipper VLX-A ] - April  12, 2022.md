@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] TESTNET update clipper VLX-A - April 12, 2022
 summary: Vote for this proposal to update clipp for VLX-A ilk
 date: 2022-04-12T00:00:00.000Z
-address: "0xE2cD1edcb6915B692cF1190022dFbA3FB802e8f9"
+address: "0x01a3517f2895c1f550cd766d8bc6a74a11fC2Aef"
 ---
 ## [Executive Vote] TESTNET Update Clip for VLX-A - April 12, 2022
 
