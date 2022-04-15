@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] TESTNET Update stabolity FEE for VLX-A - April 15, 2022
 summary: Update stabolity FEE for VLX-A
 date: 2022-04-15T00:00:00.000Z
-address: "0xc63e9E11904cfDFD969Bf89126667C8d25C16467"
+address: "0x128F63AdBe4eCC5eB7C19b3de3E11eE91A275D9c"
 ---
 ## [Executive Vote] Update stabolity FEE for VLX-A - April 15, 2022
 
