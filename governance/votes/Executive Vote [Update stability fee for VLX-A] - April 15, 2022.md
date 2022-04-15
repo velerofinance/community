@@ -42,3 +42,5 @@ Additionally, these changes may have been discussed further in recent Governance
 ## Action
 
 **Voting for this proposal will place your VDGT in support of implementing the changes outlined above.**
+
+
