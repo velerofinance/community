@@ -1,20 +1,20 @@
 ---
-title: Template - [Executive Vote] TESTNET Update stabolity FEE for VLX-A - April 15, 2022
-summary: Update stabolity FEE for VLX-A
+title: Template - [Executive Vote] TESTNET Update stability FEE for VLX-A - April 15, 2022
+summary: Update stability FEE for VLX-A
 date: 2022-04-15T00:00:00.000Z
 address: "0xe716f0aB75aeFceA5b92f303574d365704234EA5"
 ---
-## [Executive Vote] Update stabolity FEE for VLX-A - April 15, 2022
+## [Executive Vote] Update stability FEE for VLX-A - April 15, 2022
 
 The Governance Facilitator(s) and the VeleroDAO have placed an Executive Vote into the voting system. VDGT Holders should vote for this proposal if they support the following alterations to the VeeroFinance.
 
-### Update stabolity FEE for VLX-A
+### Update stability FEE for VLX-A
 
 * last value = 12%
 * new value = 20%
 
 
-Please review the following forum threads containing information about wagyulpvlxvdgt to inform your position before voting.
+Please review the following forum threads containing information about spell to inform your position before voting.
 * Initial Collateral Application
 * Risk Evaluation
 * Smart Contracts Evaluation
@@ -24,7 +24,7 @@ Please review the following forum threads containing information about wagyulpvl
 
 Therefore, if this Executive proposal passes the following will occur:
 
-**Update stabolity FEE**
+**Update stability FEE**
 * To return USDV to the 1 USD exchange rate on Wagyu swap, it is temporarily necessary to raise the stability fee.
 **Other**
 This Executive Vote will continue until the number of votes in favor surpasses the votes in favor of the currently leading proposal. This is a continuous approval vote. 
