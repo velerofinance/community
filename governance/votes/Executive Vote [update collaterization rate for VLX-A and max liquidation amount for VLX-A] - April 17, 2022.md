@@ -31,6 +31,7 @@ Therefore, if this Executive proposal passes the following will occur:
 
 **Update collaterization rate for VLX-A and max liquidation amount for VLX-A**
 * To return USDV to the 1 USD exchange rate on Wagyu swap, it is temporarily necessary to raise the collaterization rate.
+
 **Other**
 This Executive Vote will continue until the number of votes in favor surpasses the votes in favor of the currently leading proposal. This is a continuous approval vote. 
 
