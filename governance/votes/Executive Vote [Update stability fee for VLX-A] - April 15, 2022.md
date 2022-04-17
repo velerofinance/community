@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] Update stability FEE for VLX-A - April 15, 2022
 summary: Update stability FEE for VLX-A
 date: 2022-04-15T00:00:00.000Z
-address: "0x9db4b10E8E049a7D4934297D72294A6898167f93"
+address: "0xc30B066FeaeEBa5495B17D30586333e45358FEae"
 ---
 ## [Executive Vote] Update stability FEE for VLX-A - April 15, 2022
 
