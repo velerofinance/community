@@ -36,8 +36,6 @@ This Executive Vote will continue until the number of votes in favor surpasses t
 
 If this executive vote does not pass within 30 days then it will expire, and will have no effect on the VeleroFinance, even if it should later pass. 
 
-Note that this proposal will include an office-hours modifier that means it can only be cast between 14:00 and 21:00 UTC, Monday - Friday. This is to ensure that at least some auction keepers are available to react to unforeseen issues with their bots in the event of early liquidations.
-
 ## Review
 
 Community debate on these topics can be found on the VeleroDAO governance forum. Please review any linked threads to inform your position before voting.
