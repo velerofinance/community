@@ -2,7 +2,7 @@
 title: Template - [Executive Vote] TESTNET Update stability FEE for VLX-A and DSR rate - April 16, 2022
 summary: Update stability FEE for VLX-A and DSR rate
 date: 2022-04-16T00:00:00.000Z
-address: "0x98B9622968ce54DA2dE805171c4E96284E796204"
+address: "0xE1cbf581dBbCBb81259b20564f8f63E07A764a03"
 ---
 ## [Executive Vote] Update stability FEE for VLX-A and DSR rate- April 16, 2022
 
