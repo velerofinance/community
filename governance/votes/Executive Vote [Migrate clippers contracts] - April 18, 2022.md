@@ -9,6 +9,7 @@ address: "0x3B7208A3d97b7657FA4F190EEDdf2468245e1E10"
 The Governance Facilitator(s) and the VeleroDAO have placed an Executive Vote into the voting system. VDGT Holders should vote for this proposal if they support the following alterations to the Velero.
 
 ###  Migrate clippers for all ilks
+To add a new parameter to the auction contract (the minimum amount of VDGT to participate in the auction), it is necessary to replace the old auction modules with [new ones](https://github.com/velerofinance/dss/blob/new-clippers/src/clip.sol).
 
 #### VLX-A
 * last value = 0x7E7dcd51167f02e240f738c1E81e93A1eDB16233
