@@ -6,7 +6,7 @@ address: "0x3B7208A3d97b7657FA4F190EEDdf2468245e1E10"
 ---
 ## [Executive Vote]  Migrate clippers for all ilks - April 18, 2022
 
-The Governance Facilitator(s) and the VeleroDAO have placed an Executive Vote into the voting system. VDGT Holders should vote for this proposal if they support the following alterations to the VeeroFinance.
+The Governance Facilitator(s) and the VeleroDAO have placed an Executive Vote into the voting system. VDGT Holders should vote for this proposal if they support the following alterations to the Velero.
 
 ###  Migrate clippers for all ilks
 
@@ -26,11 +26,7 @@ The Governance Facilitator(s) and the VeleroDAO have placed an Executive Vote in
 * last value = 0x4FE6A5b19C1f591Ddced2C0ea616dBb8E4Ca32ef
 * new value = 0x39a94666a55408Af598CeD059E7E805751472821
 
-Please review the following forum threads containing information about spell to inform your position before voting.
-* Initial Collateral Application
-* Risk Evaluation
-* Smart Contracts Evaluation
-* Oracles Evaluation
+Please review the following [telegram chanel](https://t.me/velerodao) threads containing information about spell to inform your position before voting.
 
 ## Summary
 After the adoption of this vote, only holders of the VDGT token will be able to participate in liquidation auctions (there must be at least 30,000 VDGT on the betting wallet).
@@ -38,13 +34,12 @@ After the adoption of this vote, only holders of the VDGT token will be able to 
 **Other**
 This Executive Vote will continue until the number of votes in favor surpasses the votes in favor of the currently leading proposal. This is a continuous approval vote. 
 
-If this executive vote does not pass within 30 days then it will expire, and will have no effect on the VeleroFinance, even if it should later pass. 
+If this executive vote does not pass within 30 days then it will expire, and will have no effect on the Velero, even if it should later pass. 
 
 ## Review
 
-Community debate on these topics can be found on the VeleroDAO governance forum. Please review any linked threads to inform your position before voting.
+Community debate on these topics can be found on the VeleroDAO  [telegram chat](https://t.me/velero_chat). 
 
-Additionally, these changes may have been discussed further in recent Governance calls. Video for these calls is available to review.
 
 ## Action
 
