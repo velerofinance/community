@@ -1,5 +1,5 @@
 ---
-title: Template - [Executive Vote] Migrate clippers for all ilks - April 18, 2022
+title: Template - [Executive Vote] Migrate clippers for all ILKS - April 18, 2022
 summary:  Migrate clippers for all ilks
 date: 2022-04-18T00:00:00.000Z
 address: "0x3B7208A3d97b7657FA4F190EEDdf2468245e1E10"
