@@ -27,7 +27,7 @@ To add a new parameter to the auction contract (the minimum amount of VDGT to pa
 * last value = 0x4FE6A5b19C1f591Ddced2C0ea616dBb8E4Ca32ef
 * new value = 0x39a94666a55408Af598CeD059E7E805751472821
 
-Please review the following [telegram chanel](https://t.me/velerodao) threads containing information about spell to inform your position before voting.
+Please review the following [telegram channel](https://t.me/velerodao) threads containing information about spell to inform your position before voting.
 
 ## Summary
 After the adoption of this vote, only holders of the VDGT token will be able to participate in liquidation auctions (there must be at least 30,000 VDGT on the betting wallet).
