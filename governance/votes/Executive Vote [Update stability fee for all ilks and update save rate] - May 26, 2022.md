@@ -1,5 +1,5 @@
 ---
-title: Template - [Executive Vote] Update stability fee for all ilks and update save rate - May 26, 2022
+title: Template - [Executive Vote] Update stability fee for all ilks and update savings rate - May 26, 2022
 summary: Update stability fee for all ilks and update save rate
 date: 2022-05-26T00:00:00.000Z
 address: "0xc5f90DcC06fBFfbb1D6f121284beD8C4EE214d4c"
