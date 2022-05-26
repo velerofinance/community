@@ -11,7 +11,7 @@ The Governance Facilitator(s) and the VeleroDAO have placed an Executive Vote in
 ###  Update stability fee for all ilks
  - new value for all ilks = 3%
 
-### Update save rate
+### Update savings rate
  - last value = 6%
  - new value = 1%
 
