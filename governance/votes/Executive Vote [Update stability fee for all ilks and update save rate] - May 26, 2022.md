@@ -11,7 +11,7 @@ The Governance Facilitator(s) and the VeleroDAO have placed an Executive Vote in
 ###  Update stability fee for all ilks
  - new value for all ilks = 3%
 
-### Update liquidation penalty for BUSD-A
+### Update save rate
  - last value = 6%
  - new value = 1%
 
