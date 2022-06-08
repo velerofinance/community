@@ -40,4 +40,4 @@ Community debate on these topics can be found on the VeleroDAO  [telegram chat](
 
 ## Action
 
-**Voting for this proposal will place your VDGT in support of implementing the changes outlined above.**
+**Voting for this proposal will place your VDGT in support of implementing the changes outlined above**
