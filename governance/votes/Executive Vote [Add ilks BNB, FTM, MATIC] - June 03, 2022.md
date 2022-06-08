@@ -12,13 +12,13 @@ The Governance Facilitator(s) and the VeleroDAO have placed an Executive Vote in
 * stability fee = 3%
 * liquidation penalty = 13%
 * liquidation ratio = 150%
-* token address = 0x7f9C9599341e12861B961e52461A473055E2492C
+* token address = 0x2B8e9cD44C9e09D936149549a8d207c918ecB5C4
 
 ###  Add new ilk FTM-A
 * stability fee = 3%
 * liquidation penalty = 13%
 * liquidation ratio = 150%
-* token address = 0xB0c65fFfaA588182b23232a6F60D6611932678CE
+* token address = 0xc9b3aA6E91d70f4ca0988D643Ca2bB93851F3de4
 
 ###  Add new ilk MATIC-A
 * stability fee = 3%
