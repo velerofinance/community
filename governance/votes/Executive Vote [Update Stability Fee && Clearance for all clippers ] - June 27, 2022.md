@@ -13,8 +13,8 @@ The Governance Facilitator(s) and the VeleroDAO have placed an Executive Vote in
 * new value = 13%
 
 ###  Update Clearance for all ilks
-* last value = 30_000%
-* new value = 1_000_000%
+* last value = 30_000 VDGT
+* new value = 1_000_000 VDGT
 
 Please review the following [telegram channel](https://t.me/velerodao) threads containing information about spell to inform your position before voting.
 
