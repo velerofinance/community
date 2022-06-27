@@ -19,7 +19,7 @@ The Governance Facilitator(s) and the VeleroDAO have placed an Executive Vote in
 Please review the following [telegram channel](https://t.me/velerodao) threads containing information about spell to inform your position before voting.
 
 ## Summary
-After the adoption of this vote, only holders of the VDGT token will be able to participate in liquidation auctions (there must be at least 1,000,000 VDGT on the betting wallet).
+After the adoption of this vote, only holders of the VDGT token will be able to participate in liquidation auctions (there must be at least 1,000,000 VDGT on the betting wallet)
 
 **Other**
 This Executive Vote will continue until the number of votes in favor surpasses the votes in favor of the currently leading proposal. This is a continuous approval vote. 
